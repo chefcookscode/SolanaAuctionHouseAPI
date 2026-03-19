@@ -1,4 +1,4 @@
-# Solana Auction House API
+# Solana Auction House API (Web3)
 
 Build an in-memory REST API for a Solana-style timed auction system. Model wallets with escrow tracking, time-bound auctions, deterministic bidding rules, settlement, and cancellation.
 
